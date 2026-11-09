@@ -5,6 +5,7 @@ Resoluciones de los trabajos prácticos de la carrera, una carpeta por materia.
 | Materia | TP | Tema | Resolución |
 |---|:---:|---|---|
 | Visión por Computadora I | 1 | White Patch e histogramas | [`vision-por-computadora-I/TP1/TP1.ipynb`](vision-por-computadora-I/TP1/TP1.ipynb) |
+| Visión por Computadora I | 2 | Detector de máximo enfoque (Fourier) | [`vision-por-computadora-I/TP2/TP2.ipynb`](vision-por-computadora-I/TP2/TP2.ipynb) |
 
 ## Cómo correr las notebooks
 
